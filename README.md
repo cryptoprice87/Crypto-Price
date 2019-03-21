@@ -1,2 +1,2 @@
 # Crypto-Price
-cryptographic monitoring program
+crypto exchanges monitoring
